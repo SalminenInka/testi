@@ -1,6 +1,6 @@
 {
-  "author": "Inka",
 	"name": "fcc-learn-npm-package-json",
+  "author": "Inka",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
